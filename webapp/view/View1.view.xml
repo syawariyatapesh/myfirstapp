@@ -4,7 +4,7 @@
     <Page id="page" title="{i18n>title}">
         <content>
         <Text text="Hello World"/>
-        <Text text="Automated deployment"/>
+        <Text text="Automated"/>
         </content>
     </Page>
 </mvc:View>
